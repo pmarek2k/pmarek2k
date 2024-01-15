@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Przemek
-- 👀 I’m interested in programming overall
-- ✨ My favourite programming language is Java
-- 🌱 I’m currently learning Backend development using Spring Boot
+- ✨ I'm mostly coding backend using Java + Spring - i know a bit frontend with React also
 
 <!---
 pmarek2k/pmarek2k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
